@@ -1,0 +1,12 @@
+.index{
+	.row {
+		margin: 30px;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		.counter-btn{
+			flex: 1;
+		}
+	}
+}
+
